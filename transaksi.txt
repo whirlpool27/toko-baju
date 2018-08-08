@@ -1,0 +1,1 @@
+Batik Ngawi | Coklat | 0.1 | Katun | 35000 | 1 | 1 | 1 | 1 | JNE | YES | Bandung | 8000 | 1 | 12/12/12

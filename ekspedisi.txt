@@ -1,0 +1,5 @@
+JNE | YES | Surabaya | 9000 | 1
+JNE | YES | Bandung | 8000 | 1
+JNE | YES | Jakarta | 3000 | 1
+JNE | YES | Bengkulu | 10000 | 1
+JNE | REG | Bandung | 4000 | 2

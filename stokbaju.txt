@@ -1,0 +1,1 @@
+Blouse Etnik Sasmira | Blouse | Perempuan | Biru | 0.1 | Spandex | 30000 | 10 | 15 | 20 | 10 | 100 | 10Baju Petir | Dewa | Pria | Putih | 8 | Elektron | 99999 | 999 | 999 | 999 | 999 | 4 | 0Batik Ngawi | Batik | Pria | Coklat | 0.1 | Katun | 35000 | 108 | 86 | 136 | 89 | 99 | 5Batik Pelangi | Batik | Pria | Pelangi | 0.2 | Katun | 55000 | 11 | 23 | 13 | 2 | 45 | 4
